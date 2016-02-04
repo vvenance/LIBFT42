@@ -1,0 +1,4 @@
+This is a project that makes us re-code some basic functions of standard c libraries and some personnals.
+I choosed to code the existing functions in a little different way so in my libft they don't segfault if a NULL parameter is sent to them.
+You can use this library for wathever you want to.
+Tell me if something's wrong or weird in it to you, thank's.
